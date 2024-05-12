@@ -139,7 +139,7 @@
     <!-- Integration: Npgsql -->
     <!-- Assembly: Npgsql -->
     <!-- Latest package https://www.nuget.org/packages/Npgsql/7.0.2 -->
-    <PackageReference Include="Npgsql" Version="7.0.2" />
+    <PackageReference Include="Npgsql" Version="7.0.7" />
 
     <!-- Integration: nunit.framework -->
     <!-- Assembly: nunit.framework -->
